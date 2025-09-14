@@ -29,6 +29,7 @@
 <h2> How to Run</h2>
 <ol>
   <li>Clone the repository:</li>
+  <li>Run index.html</li>
 </ol>
 
 
