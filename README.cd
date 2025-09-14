@@ -1,0 +1,18 @@
+# Netflix Clone
+
+A simple Netflix homepage clone built using HTML, CSS, and JavaScript.  
+It includes a responsive layout and an interactive FAQ accordion section.
+
+## Project Structure
+- index.html → Main page
+- style.css → Styles
+- index.js → FAQ accordion functionality
+
+## Features
+- Netflix-style landing page design
+- Responsive layout for desktop and mobile
+- Expandable/collapsible FAQ section with smooth transitions
+
+## How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
